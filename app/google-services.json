@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981504422060",
+    "firebase_url": "https://ventas-51a93.firebaseio.com",
+    "project_id": "ventas-51a93",
+    "storage_bucket": "ventas-51a93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981504422060:android:801c3948f890ac3e74ef09",
+        "android_client_info": {
+          "package_name": "com.example.ventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981504422060-rabphp32p7h7bnh6bbs3q3r5fdhmcd7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiIT-G-4gyycvziNacnei9kYzEpzf6N04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981504422060-rabphp32p7h7bnh6bbs3q3r5fdhmcd7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
